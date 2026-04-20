@@ -13,8 +13,8 @@ An exploration of a common data science workflow and a tour through modern tools
 
 ## View the Notebook
 
-A thoroughly annotated Jupyter Notebook can be accessed in [CustomerChurn.ipynb](https://github.com/feliperapacci/Business_Data_Analysis_Pipeline/blob/main/CustomerChurn.ipynb).
-It can also be downloaded as an HTML file in [CustomerChurn.html](https://github.com/feliperapacci/Business_Data_Analysis_Pipeline/blob/main/CustomerChurn.html).
+A thoroughly annotated Jupyter Notebook can be accessed in [CustomerChurn.ipynb](https://github.com/feliperapacci/Business_Data_Analysis_Pipeline/blob/master/CustomerChurn.ipynb).
+It can also be downloaded as an HTML file in [CustomerChurn.html](https://github.com/feliperapacci/Business_Data_Analysis_Pipeline/blob/master/CustomerChurn.html).
 
 ## Running Locally
 
