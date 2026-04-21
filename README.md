@@ -4,12 +4,12 @@ An exploration of a common data science workflow and a tour through modern tools
 
 ## Stack
 
-- **Python** — General purpose programming language, central to most modern data science workflows
-- **pandas** — Data analysis and manipulation tool used to clean and transform the dataset
-- **SQLite** — Lightweight relational database built into python, used to query data with SQL
-- **scikit-learn** — Machine learning tool used to train and validate a model
-- **matplotlib** — Visualization tool used to plot and present data
-- **Anthropic API** — Anthropic's LLM API, used to present plain-English summaries of the dataset
+- **Python:** General purpose programming language, central to most modern data science workflows
+- **pandas:** Data analysis and manipulation tool used to clean and transform the dataset
+- **SQLite:** Lightweight relational database built into python, used to query data with SQL
+- **scikit-learn:** Machine learning tool used to train and validate a model
+- **matplotlib:** Visualization tool used to plot and present data
+- **Anthropic API:** Anthropic's LLM API, used to present plain-English summaries of the dataset
 
 ## View the Notebook
 
